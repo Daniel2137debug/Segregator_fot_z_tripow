@@ -37,6 +37,7 @@ $ npm run build:linux
 # Segregator_fot_z_tripow
 To program do segregacji zdjec z tripow - uzyteczna sprawa. Wykorzystuje narzędzia google (Google Cloud Vision API). Jest to jednocześnie projekt zaliczeniowy na uś (zmpo)
 Przy okazji wykorzystuje LLMki od Google wiec fajnie wyglada
+Niezbędne do prawidłowego działania programu jest dodanie w głównym folderze programu pliku z kluczami od google pod nazwą google-key.json
 
 
 Tech Stack:
