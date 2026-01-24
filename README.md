@@ -53,4 +53,7 @@ Architektura:
 mainProcess: Komunikacja z Google Cloud Vision i zarządzanie plikami.
 rendererProcess: Interface w Reactcie.
 preloadScripts: IPC (pośrednik) między UI a OS.
->>>>>>> 6b5de5f728c7be7e1c080c1fc2c44592cf73b57b
+
+Program włączany przez konsole:
+cd *sciezka do folderu programu*
+npm run dev
