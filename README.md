@@ -45,7 +45,7 @@ Backend: Ts w Electronie
 Frontend: React (gui).
 
 Google Cloud Vision API (rozpoznawanie obrazów/etykietowanie).
-Wykorzystanie lm-ków (modeli jezykowych) Google do inteligentnej analizy i opisu kontekstu zdjęć
+Wykorzystanie lm (modeli jezykowych) Google do inteligentnej analizy i opisu kontekstu zdjęć
 
 
 Architektura:
